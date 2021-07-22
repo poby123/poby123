@@ -1,6 +1,6 @@
 ### Hi there 👋
 📕 I’m currently learning <i>__TCP/IP Socket Programming__</i> & <i>__JPA__ </i> <br/>
-📧 Contact : youngsm12@naver.com
+📧 Contact : youngsm12@naver.com <br/>
 
 ---
 
@@ -44,6 +44,10 @@
 - ORM (TypeORM / Sequelize.js / JPA)
 - PWA
 - OS
+
+---
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poby)](https://solved.ac/poby/)
 
 <!--
 **poby123/poby123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
