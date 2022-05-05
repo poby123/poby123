@@ -1,7 +1,7 @@
 ### Hi there 👋
 😎 Korea Army : 2021.08.02 ~ 2023.02.01 <br/>
 📕 I’m currently learning <i>__TCP/IP Socket Programming__</i> & <i>__JPA__ </i> <br/>
-📧 Contact : youngsm12@naver.com <br/>
+📧 Contact : i2pir@naver.com <br/>
 
 ---
 
