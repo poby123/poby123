@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 Limo Project: 2023.04 ~ <br/>
+😀 Sharedrop Project: 2023.06 ~  <br/>
+🌱 Limo Project: 2023.04 ~ 2023.05 <br/>
 😎 Korea Army : 2021.08.02 ~ 2023.02.01 <br/> 
 📕 I’m currently learning <i>__NestJS__</i> <br/>
 📧 Contact : i2pir@naver.com <br/>
