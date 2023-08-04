@@ -2,7 +2,7 @@
 😀 [Sharedrop Project](https://sharedrop.app) : 2023.06 ~ 2023.08 <br/>
 🌱 [Limo Project](https://limoai.app) : 2023.04 ~ 2023.05 <br/>
 😎 Korea Army : 2021.08.02 ~ 2023.02.01 <br/> 
-📕 I’m currently learning <i>__NestJS__</i> <br/>
+📕 I’m currently learning __MySQL__, __JPA__, __QueryDSL__ <br/>
 📧 i2pir@naver.com <br/>
 💡 [My Notion](https://rb.gy/p26uau)
 
