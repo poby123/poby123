@@ -1,10 +1,8 @@
 ### Hi there 👋
-😀 [Sharedrop Project](https://sharedrop.app) : 2023.06 ~ 2023.08 <br/>
-🌱 [Limo Project](https://limoai.app) : 2023.04 ~ 2023.05 <br/>
+💡 [My Notion](https://rb.gy/p26uau)
 😎 Korea Army : 2021.08.02 ~ 2023.02.01 <br/> 
 📕 I’m currently learning __MySQL__, __JPA__, __QueryDSL__ <br/>
 📧 i2pir@naver.com <br/>
-💡 [My Notion](https://rb.gy/p26uau)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poby)](https://solved.ac/poby/)
 
