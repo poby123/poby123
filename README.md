@@ -1,5 +1,5 @@
 ### Hi there 👋
-💡 [My Notion](https://rb.gy/p26uau)
+💡 [My Notion](https://rb.gy/p26uau) <br/> 
 😎 Korea Army : 2021.08.02 ~ 2023.02.01 <br/> 
 📕 I’m currently learning __MySQL__, __JPA__, __QueryDSL__ <br/>
 📧 i2pir@naver.com <br/>
